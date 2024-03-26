@@ -1,3 +1,3 @@
 # Lambda Calculus Evaluator
 
-An exercise to learn more about function programming.
+An exercise to learn more about functional programming.
